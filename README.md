@@ -9,6 +9,9 @@ En términos generales consiste en aplicar servicios de salud empleando nuevas t
 ## Arduino 
 Sistema de hardware libre empleado para el desarrollo de elementos electrónicos aplicados en diferentes áreas o ingenierías. [2]. Es una plataforma gratuíta que permite diseñar y desarrollar aplicaciones a través de lenguajes de programación similares a C o C++. Es una herramienta ideal para automatizar procesos físicos, monitorizar diferentes sensores analógicps y digitales o desarrollar aplicaciones. [3]
 
+![arduino5804](https://github.com/VictorBarcina/Sistemas_de_gestion_y_transmision_de_datos_medicos/assets/80346517/e4ed5cf3-0749-4fb0-8e35-00a45ae2b7d9) (imagen procedente de https://logowik.com/content/uploads/images/arduino5804.jpg) 
+
+
 La plataforma empleada en el proyecto ha sido Arduino Uno debido a que proporciona un entorno de programación flexible para el desarrollo del proyecto. 
 
 ## Objetivos del proyecto
