@@ -47,9 +47,11 @@ Es importante destacar que se dio especial atención a la documentación de los 
 
 ## Referencias
 [1] Prados Castillejo, J. A. (2013). Telemedicina, una herramienta también para el médico de familia. (pp. 129-132). Disponible en: https://www.elsevier.es/es-revista-atencion-primaria-27-articulo-telemedicina-una-herramienta-tambien-el-S0212656712003484 
+
 [2] Jose Carlos Herrero Herranz and Jesús Sánchez Allende. Una mirada al
 mundo arduino | herrero herranz | tecnología y desarrollo. Disponible en https:
 //revistas.uax.es/index.php/tec_des/article/view/617
+
 [3] Fernando Reyes Cortés and Jaime Cid Monjaraz 2015. Arduino: aplicaciones
 en robótica, mecatrónica e ingenierías - fernando reyes cortes, jaime cid
 monjaraz - google libros. https://books.google.es/books?hl=es&
