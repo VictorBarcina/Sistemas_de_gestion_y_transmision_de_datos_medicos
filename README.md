@@ -61,3 +61,23 @@ monjaraz - google libros. https://books.google.es/books?hl=es&
 lr=&id=fExOEAAAQBAJ&oi=fnd&pg=PR1&dq=plataforma+arduino&
 ots=PYm4j5EfpK&sig=-BhJjHd1RW1ecOXfGGZADdYB1kM#v=onepage&
 q=plataforma%20arduino&f=false
+
+La carpeta Archivos_Bases_De_Datos contienen archivos obtenidos de diferentes bases de datos públicas de PhysioNet (https://physionet.org/about/database/). 
+Estas son: 
+### Abdominal and Direct Fetal ECG Database:
+Jezewski J, Matonia A, Kupka T, Roj D, Czabanski R. >Determination of the fetal heart rate from abdominal signals: evaluation of beat-to-beat accuracy in relation to the direct fetal electrocardiogram. Biomedical Engineering/Biomedizinische Technik 2012 Jul;57(5):383-394. doi:10.1515/bmt-2011-0130. 
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+
+https://physionet.org/content/adfecgdb/1.0.0/
+
+### Apnea-ECG Database
+T Penzel, GB Moody, RG Mark, AL Goldberger, JH Peter. The Apnea-ECG Database. Computers in Cardiology 2000;27:255-258.
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+https://physionet.org/content/apnea-ecg/1.0.0/
+
+### CAP Sleep Database
+MG Terzano, L Parrino, A Sherieri, R Chervin, S Chokroverty, C Guilleminault, M Hirshkowitz, M Mahowald, H Moldofsky, A Rosa, R Thomas, A Walters. Atlas, rules, and recording techniques for the scoring of cyclic alternating pattern (CAP) in human sleep. Sleep Med 2001 Nov; 2(6):537-553.
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+https://physionet.org/content/capslpdb/1.0.0/
